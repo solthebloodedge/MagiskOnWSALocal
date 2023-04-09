@@ -170,12 +170,16 @@
 ---
 
 ## Credits
+- [video original](https://www.youtube.com/watch?v=dQeiY0oVIcM&t=0s): tuto WSA
 - [zipfile download](https://www.mediafire.com/file/pl688w8lpyohm5b/WSA-with-magisk-GApps-pico_1.8.32837.0_x64_Release-Nightly_3.zip/file): downloading WSA
 - [StoreLib](https://github.com/StoreDev/StoreLib): API for downloading WSA
 - [Magisk](https://github.com/topjohnwu/Magisk): The most famous root solution on Android
 - [The Open GApps Project](https://opengapps.org): One of the most famous Google Apps packages solution
 - [WSA-Kernel-SU](https://github.com/LSPosed/WSA-Kernel-SU) and [kernel-assisted-superuser](https://git.zx2c4.com/kernel-assisted-superuser/): The kernel `su` for debugging Magisk Integration
 - [WSAGAScript](https://github.com/ADeltaX/WSAGAScript): The first GApps integration script for WSA
+- [video simple](https://www.youtube.com/watch?v=0X4xMVCkWSo): tuto WSA 2
+
+
 
 _The repository is provided as a utility._
 
